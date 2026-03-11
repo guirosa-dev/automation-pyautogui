@@ -4,7 +4,7 @@ Projeto em Python que realiza **automação de cadastro de produtos em um sistem
 
 
 
-## 📌 Sobre
+### Sobre
 
 O **automacao-pyautogui** é um projeto desenvolvido para demonstrar como automatizar tarefas repetitivas em sistemas web utilizando **Python**.
 
