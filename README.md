@@ -41,26 +41,26 @@ Assista ao vídeo demonstrando o funcionamento do chatbot: https://youtu.be/O3pS
 
 ## Como Executar
 
-### 1° Clone o repositório
+### 1° - Clone o repositório
 
 ```
 git clone https://github.com/seu-usuario/automacao-pyautogui
 ```
 
-### 2° Entre na pasta do projeto
+### 2° - Entre na pasta do projeto
 
 ```
 cd automacao-pyautogui
 ```
 
-### 3° Instale as bibliotecas necessárias
+### 3° - Instale as bibliotecas necessárias
 
 ```
 pip install pyautogui
 pip install pandas
 ```
 
-### 4° Execute o script
+### 4° - Execute o script
 
 ```
 python automacao.py
